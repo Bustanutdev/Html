@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+<style>
+  .banner {
+    width: 100%;
+    height: 200px;
+  }
+</style>
+
+<img src="screenshot.png" alt="Banner" class="banner">
+
+<img src="thugimage.gif" alt="A GIF image" width="100%" height="200">
+
+<body>
+</style> 
+
+<style>
+  .panel {
+    float: right;
+    width: 200px;
+    height: 400px;
+    background-color: lightgrey;
+    text-align: center;
+background-color: rgb(25, 25, 25);
+  overflow: auto; /* add scrolling bar */
+  }
+</style>
+<div class="panel">
+  Nigga Musics
+  
+  <audio controls>
+  <source src="song.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+  </audio>
+
+  <audio controls>
+  <source src="song2.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+  </audio>
+
+<img src="thugimage.gif" alt="A GIF image">
+<img src="thugimage2.gif" alt="A GIF image">
+<img src="thugimage3.gif" alt="A GIF image">
+<img src="thugimage4.gif" alt="A GIF image">
+
+</div>
+
+<head>
+
+<body style="background-color:black;">
+
+<style>
+  body {
+    color: white;
+  }
+</style>
+
+
+
+  <title>My Homepage</title>
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      text-align: center;
+      text.color = 'white'
+    }
+
+    button {
+      background-color: blue;
+      color: white;
+      border: none;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+
+    buttonTEST {
+      background-color: blue;
+      color: white;
+      border: none;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+
+    button:active {
+      transform: scale(1.1);
+    }
+    buttonTEST:active {
+      visibility: hidden;
+    }
+
+  </style>
+</head>
+<body>
+  <h1>Nigpro Offical Fan Club</h1>
+  <p>SEX!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
+  <h2>What is nigpro?</h2>
+  <p>It is</p>
+  <h2>More!</h2>
+  <p>press the buttons below you dumb nigga.</p>
+  <button>Click me!</button>
+  <p>LOL! buttons dont work REtard</p>
+</body>
+</html>
+
+
+<img src="image.jpg" alt="My Image">
+
